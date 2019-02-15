@@ -42,3 +42,4 @@ print(test_Y.shape)
 
 print(train_X.shape)
 print(test_X.shape)
+print(test_X.shape)
